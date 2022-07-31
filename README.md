@@ -24,4 +24,4 @@ Other good links:
 ### Dirs 
 
 * 2021-11 - Big Sur
-* 2022-07 - Big Sur,try merge Andrej-Antipov kext
+* 2022-07 - Big Sur,try merge Andrej-Antipov conf
